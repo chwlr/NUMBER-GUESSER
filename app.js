@@ -2,7 +2,7 @@
 let min = 1,
     max = 10,
     winningNum = Math.floor(Math.random() * (max - min + 1) + min),
-    chanceLeft = 9;
+    chanceLeft = 4;
     console.log(winningNum)
 
 // define UI variables
